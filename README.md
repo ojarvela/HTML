@@ -2,12 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
-</head>
+  </head>
 <body>
 
 <h1>Welcome to Oskari's page</h1>
-<p>Hello everyone!.</p>
+<p>Hello everyone!</p>
 
 </body>
 </html>
